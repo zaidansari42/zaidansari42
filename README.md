@@ -1,4 +1,4 @@
-### Hi there, it's Zaid here 😄👋
+### Hi there, it's Zaid here 😄👋 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/zaid42/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,8 +11,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </div>
-I am a Passionate Engineer with a Bachelor's Degree 🎓 from <strong>Mumbai, India</strong>, Currently developing Front-End part of Web Development with attracting & amazing UI's. I have a keen intrest for Software and Tech, I keep myself updated with latest technologies trend and designs being used in the Industry :computer: . 
-  
+I am a Passionate Engineer with a Bachelor's Degree 🎓 from <strong>Mumbai, India</strong>, Currently developing Front-End part of Web Development with attracting & amazing UI's. I have a keen intrest for Software and Tech, I keep myself updated with latest technology trends and designs being used in the Industry :computer: . 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&multiline=true&width=1000&lines=Front+End+Developer+%2F+Always+learning+new+things+%2F+Web+Developer)](https://git.io/typing-svg)
 
 
 ---
