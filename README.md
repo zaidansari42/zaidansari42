@@ -11,7 +11,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </div>
-I am a Passionate Engineer with a Bachelor's Degree 🎓 from <strong>Mumbai, India</strong>, Currently developing Front-End part of Web Development with attracting & amazing UI's. I have a keen intrest for Software and Tech, I keep myself updated with latest technologies trend and designs being used in the Industry :computer: .
+I am a Passionate Engineer with a Bachelor's Degree 🎓 from <strong>Mumbai, India</strong>, Currently developing Front-End part of Web Development with attracting & amazing UI's. I have a keen intrest for Software and Tech, I keep myself updated with latest technologies trend and designs being used in the Industry :computer: . 
+  
+
 
 ---
 
@@ -37,6 +39,23 @@ I am a Passionate Engineer with a Bachelor's Degree 🎓 from <strong>Mumbai, In
 
 ### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidansari42&show_icons=true&theme=cobalt)
+
+---
+
+### :construction: Some of the Projects that I've Built :
+
+:small_orange_diamond: <a href="https://zaidansari42.github.io/HCN-Website/">Hippe Chick Norms</a>
+
+:small_orange_diamond: <a href="https://zaidansari42.github.io/Responsive-Resume-Design/">Responsive Resume Design</a>
+
+:small_orange_diamond: <a href="https://zaidansari42.github.io/NFT-preview-card-component-main/">NFT Preview Card</a>
+
+:small_orange_diamond: <a href="https://zaidansari42.github.io/Amazing-Mountain-Responsive/">Amazing Mountain</a>
+
+:small_orange_diamond: <a href="https://zaidansari42.github.io/CSS-Loader-Animation/">Cool CSS Loading Animation</a>
+
+:small_orange_diamond: <a href="https://zaidansari42.github.io/Liquid-Cup-Animation/">Liquid Cup Fill Animation</a>
+
 
 
 <!--
