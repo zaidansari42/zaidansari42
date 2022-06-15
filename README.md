@@ -22,7 +22,11 @@ I am a Passionate Engineer with a Bachelor's Degree 🎓 from <strong>Mumbai, In
 
 :dart: I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mumbai, India.
 
+:construction_worker: Looking to collaborate on Front-End projects.
+
 :zap: In my free time, I learn about new technologies, designs.
+
+
 
 ---
 
