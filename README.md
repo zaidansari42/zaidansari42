@@ -51,6 +51,8 @@ I am a Passionate Engineer with a Bachelor's Degree 🎓 from <strong>Mumbai, In
 
 :small_orange_diamond: <a href="https://zaidansari42.github.io/HCN-Website/">Hippe Chick Norms</a>
 
+:small_orange_diamond: <a href="https://zaidansari42.github.io/FEM-Clipboard-landing-page/">Clipboard Landing Page</a>
+
 :small_orange_diamond: <a href="https://zaidansari42.github.io/FEM-Social-Proof/"> Social Proof Reveiw</a>
 
 :small_orange_diamond: <a href="https://zaidansari42.github.io/Responsive-Resume-Design/">Responsive Resume Design</a>
