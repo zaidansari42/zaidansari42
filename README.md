@@ -49,6 +49,8 @@ I am a Passionate Engineer with a Bachelor's Degree 🎓 from <strong>Mumbai, In
 
 ### :construction: Some of the Projects that I've Built :
 
+:small_orange_diamond: <a href="https://luxrent.netlify.app/">Lux Rent</a>
+
 :small_orange_diamond: <a href="https://zaidansari42.github.io/HCN-Website/">Hippe Chick Norms</a>
 
 :small_orange_diamond: <a href="https://zaidansari42.github.io/FEM-Clipboard-landing-page/">Clipboard Landing Page</a>
